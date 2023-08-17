@@ -1,0 +1,85 @@
+{
+    "house":[
+        
+        {
+            "id":1,
+            "title": " Barefoot House",
+            "price": 400,
+            "bedroom": 3,
+            "bathroom": 2,
+            "description":"Barefoot House in Sayulita, Mexico has a quiet location atop Gringo Hill with stunning views and a short walk to the beach",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Abraj street",
+            "photo": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2023/5/18/0/HUHH2023_Beachfront-Homes_Sarasota-Gulf-Front-5.jpg.rend.hgtvcom.966.630.suffix/1684421604579.jpeg"
+        },
+        {
+            "id":2,
+            "title": " Birchwood House",
+            "price": 500,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Birchwood House is a care home based in Speldhurst on the outskirts of Tunbridge Wells, Kent providing residential care for the elderly.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Abraj street",
+            "photo": "https://12b85ee3ac237063a29d-5a53cc07453e990f4c947526023745a3.ssl.cf5.rackcdn.com/final/3751/101225.jpg"
+        },
+        {
+            "id":3,
+            "title": " Corner House.",
+            "price": 600,
+            "bedroom": 5,
+            "bathroom": 2,
+            "description":"CornerHouse is an accredited, globally recognized Children's Advocacy Center, providing services for children",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Abraj street",
+            "photo": "https://gkbr-p-001.sitecorecontenthub.cloud/api/public/content/dcd978461ea14c80a8ee3b6d9dc7da07?v=84b6ae09&t=s400"
+        },
+        {
+            "id":4,
+            "title": " Fairview",
+            "price": 700,
+            "bedroom": 3,
+            "bathroom": 2,
+            "description":"Fairview House is a family-owned boutique hotel situated on 68-acres of spectacular countryside",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Abraj street",
+            "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416548170.jpg?k=f81e6c90ea537c5e89bad5ce83664f7ba3cf563b82030bc5b0a4895865f8518b&o=&hp=1"
+        },
+        {
+            "id":5,
+            "title": " Firs Point",
+            "price": 800,
+            "bedroom": 4,
+            "bathroom": 2,
+            "description":"Absolute Beachfront Residence Featuring Four Bedrooms, Two Bathrooms, Six Car Basement Garage And Heated In-Ground Swimming Pool.",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Abraj street",
+            "photo": "https://i2.au.reastatic.net/800x600-format=webp/f97aba401b197f5a9d09596902ee7b8ba6ba53836c70f7575f3db108236ff79a/main.jpg"
+        },
+        {
+            "id":6,
+            "title": "Haven",
+            "price": 900,
+            "bedroom": 3,
+            "bathroom": 2,
+            "description":"Haven House is a shelter and advocacy provider for victims of domestic violence. You have a right to live without fear of abuse",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "address":"Al-Abraj street",
+            "photo": "https://i2-prod.business-live.co.uk/incoming/article9510586.ece/ALTERNATES/s1227b/Birchwood-House-in-Hoar-Cross-6.jpg"
+        }
+
+
+    ]
+}
